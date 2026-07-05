@@ -14,7 +14,7 @@ Address = input()
 
 print("My Name is ", Name)
 print("My Age is ", Age)
-print("My Address is ",Address)  '''
+print("My Address is ",Address)
 
 # Code 3
 
@@ -30,4 +30,16 @@ Divide = Multiply/Add
 print(Multiply)
 print(Add)
 print(Divide)
+
+Name = input()
+Score = int(input())
+Department = input()
+
+Result = Score/10
+
+print("My Name is",Name)
+print("My Score is",Result)
+print("My Department is",Department)
+
+'''
 
